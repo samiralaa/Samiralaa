@@ -24,7 +24,7 @@ Hi! I'm Samir Alaa, a professional PHP developer with a passion for building eff
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
     <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-    <img src="https://skillicons.dev/icons?i=Java" alt="java">
+    <img src="https://skillicons.dev/icons?i=java" alt="java">
     <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
