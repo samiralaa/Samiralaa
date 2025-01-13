@@ -57,10 +57,10 @@ Hi! I'm Samir Alaa, a professional PHP developer with a passion for building eff
 
 ## 📫 Contact Me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-- 🛠 GitHub: [https://github.com/your-profile](https://github.com/your-profile)
+- 📧 Email: devsamiralzeer243@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/samir-alaa-6b5b28201/
+- 🌐 Portfolio: https://www.linkedin.com/in/samir-alaa-6b5b28201/
+- 🛠 GitHub: https://github.com/samiralaa
 
 ---
 
