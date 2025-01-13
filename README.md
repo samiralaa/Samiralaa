@@ -14,26 +14,35 @@ Hi! I'm Samir Alaa, a professional PHP developer with a passion for building eff
 
 ## 🛠️ Skills
 
-### Programming Languages:
-- 🐘 **PHP** (OOP and procedural)
-- 🌐 **JavaScript** (Basic front-end support)
-- ☕ **Java** (Object-Oriented Programming, Spring Framework)
-- 🐍 **Python** (Scripting, Automation, and Data Analysis)
+## <picture><img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width="50px"></picture> Languages and Tools:
 
-### Frameworks:
-- ⚡ **Laravel**
-- 🎵 **Symfony**
-- 🪶 **Slim Framework**
+<br><br>
+<div align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/>
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"/>
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=phpstorm" alt="PHPStorm"/>
+  </a>
+</div>
+<br><br>
 
-### Databases:
-- 🗄️ **MySQL**
-- 🐘 **PostgreSQL**
-- 🗂️ **SQLite**
-
-### Tools & Platforms:
-- 🛠 **Git** / **GitHub** / **GitLab**
-- 📦 **Docker**
-- 🐧 **Linux Servers**
 
 ---
 
