@@ -1,12 +1,12 @@
-# [Samir Alaa] - PHP Developer 👨‍💻
+# Samir Alaa - PHP Developer 👨‍💻
 
-Hi! I'm [Samir Alaa], a professional PHP developer with a passion for building efficient, scalable, and maintainable web applications. I specialize in backend development and enjoy solving complex challenges.
+Hi! I'm Samir Alaa, a professional PHP developer with a passion for building efficient, scalable, and maintainable web applications. I specialize in backend development and enjoy solving complex challenges.
 
 ---
 
 ## 💡 About Me
 
-- 💻 **Experience**: [X Years] of professional experience in PHP development.
+- 💻 **Experience**: 5 Years of professional experience in PHP development.
 - 🔧 **Expertise**: Crafting RESTful APIs, managing databases, and developing robust applications using PHP frameworks.
 - 🚀 **Favorite Tools**: Laravel, Symfony, MySQL, Git, Docker.
 
@@ -17,6 +17,8 @@ Hi! I'm [Samir Alaa], a professional PHP developer with a passion for building e
 ### Programming Languages:
 - 🐘 **PHP** (OOP and procedural)
 - 🌐 **JavaScript** (Basic front-end support)
+- ☕ **Java** (Object-Oriented Programming, Spring Framework)
+- 🐍 **Python** (Scripting, Automation, and Data Analysis)
 
 ### Frameworks:
 - ⚡ **Laravel**
