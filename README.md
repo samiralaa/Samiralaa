@@ -1,6 +1,6 @@
-# [Your Name] - PHP Developer 👨‍💻
+# [Samir Alaa] - PHP Developer 👨‍💻
 
-Hi! I'm [Your Name], a professional PHP developer with a passion for building efficient, scalable, and maintainable web applications. I specialize in backend development and enjoy solving complex challenges.
+Hi! I'm [Samir Alaa], a professional PHP developer with a passion for building efficient, scalable, and maintainable web applications. I specialize in backend development and enjoy solving complex challenges.
 
 ---
 
