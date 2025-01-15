@@ -8,7 +8,7 @@ Hi! I'm Samir Alaa, a professional PHP developer with a passion for building eff
 
 - 💻 **Experience**: 5 Years of professional experience in PHP development.
 - 🔧 **Expertise**: Crafting RESTful APIs, managing databases, and developing robust applications using PHP frameworks.
-- 🚀 **Favorite Tools**: Laravel, Symfony, MySQL, Git, Docker.
+- 🚀 **Favorite Tools**: Laravel, Symfony, Spring Boot, MySQL, Git, Docker.
 
 ---
 
@@ -38,19 +38,6 @@ Hi! I'm Samir Alaa, a professional PHP developer with a passion for building eff
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/>
     <img src="https://skillicons.dev/icons?i=phpstorm" alt="PHPStorm"/>
   </a>
-</div>
-<br><br>
-
-
----
-
-## 🔗 Projects
-
-- **E-Commerce Platform**: Built a scalable and secure platform for online shopping with Laravel.
-- **API Development**: Developed custom APIs for mobile and web integrations.
-- **CMS Solutions**: Created content management systems tailored to client needs.
-
----
 
 ## 🌟 Services I Offer
 
